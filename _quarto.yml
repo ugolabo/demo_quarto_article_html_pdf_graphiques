@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: _site
+  render: 
+    - demo_customer_churn_analysis_dashboard.qmd
+
+website:
+  title: "demo"
+  navbar: false  # dashboard has one
+  sidebar: false  # not necessary
+  favicon: img/favicon.ico
+
+execute:
+  freeze: auto  # re-calculate if .qmd changes
