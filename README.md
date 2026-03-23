@@ -11,6 +11,8 @@ Production d'argent par les Espagnols en Amérique du Sud à l'époque coloniale
 
 ## Publier
 
+Un <a href="[https://ugolabo.github.io/demo_quarto_article_html_chars/](https://quarto.org/docs/guide/)" target="_blank">document Quarto</a> mélange contenu textuel avec ou sans blocs de code. Le code peut être du langage R, Python, SQL et bien d'autres. Le code sert aussi à générer des tableaux, des graphiques et des cartes ; statiques ou interactives.
+
 Ce repo utilise l'**Option 2**. Le build et le déploiement apparaissent dans l'onglet Actions, plus haut.
 
 | Caractéristique      | Option 1 (Workflow complet)                                                                      | Option 2 (HTML statique)                                                                    |
